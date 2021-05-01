@@ -1,6 +1,6 @@
-## Hello there, welcome to my profile 
+## Hello there  <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> welcome to my profile 
 
-My name is Sebastian I am aspiring programmer and data analyst who is currently working on:
+My name is Sebastian I am  Mechatronics engineer student at _Universidad Nacional de Colombia_. I am an aspiring programmer and data analyst who is currently working on:
 | __A data science R notebook__     | __MATLAB simulations__ |
 | ----------- | ----------- |
 | [<img align = "center" alt="notebook cover" width="400" src="https://raw.githubusercontent.com/jsduenass/datasciencecoursera/gh-pages/media/vector/coursera_and_jhu.svg" />][notes] | [<img align = "center" alt="notebook cover" width="400" src="https://raw.githubusercontent.com/jsduenass/PA-servomecanismos/master/Simulation.gif" />][simu] |
@@ -15,11 +15,28 @@ anuraghazra         github-readme-stats            https://github.com/anuraghazr
 -->
 
 ### Connect with me:
+
+<p align = "center">
+
+  <a href="https://www.youtube.com/channel/UCMz9gY0KbNBKRmdPq3wIKNA">
+  <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg" alt = "youtube" style = "vertical-align:top; margin:4px"/>
+  </a> 
+  
+  
+  <a href="https://twitter.com/jsduenass">
+  <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt = "twitter" style = "vertical-align:top; margin:4px"/>
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/jsduenass/">
+  <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt = "youtube" style = "vertical-align:top; margin:4px"/>
+  </a> 
+
+</p>
+
+<!--
 [<img align = "center" alt=" YouTube" width="40" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg" />][youtube]
 [<img align = "center" alt="jsduenass | Twitter" width="40" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" />][twitter]
 [<img align = "center" alt="jsduenass | LinkedIn" width="40" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />][linkedin]
-
-<br />
 
 
 [youtube]: https://www.youtube.com/channel/UCMz9gY0KbNBKRmdPq3wIKNA/
@@ -27,6 +44,7 @@ anuraghazra         github-readme-stats            https://github.com/anuraghazr
 [linkedin]: https://www.linkedin.com/in/jsduenass/
 [notes]: https://github.com/jsduenass/datasciencecoursera
 [simu]: https://github.com/jsduenass/PA-servomecanismos
+-->
 
 ### Languages and Tools:
 
@@ -39,7 +57,7 @@ anuraghazra         github-readme-stats            https://github.com/anuraghazr
  <br/> 
 
   <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt = "vsc" style = "vertical-align:top; margin:4px">
-   <img src = " https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt = "bash" style = "vertical-align:top; margin:4px">
+  <img src = " https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt = "bash" style = "vertical-align:top; margin:4px">
   
   <br/>
 
