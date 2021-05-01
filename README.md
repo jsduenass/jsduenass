@@ -5,7 +5,7 @@ My name is Sebastian I am  Mechatronics engineer student at _Universidad Naciona
  <table style="width:100%">
   <tr>
     <th>A data science R notebook</th>
-    <th>MATLAB simulations</th>
+    <th>MATLAB differential robot simulation</th>
   </tr>
   <tr>
     <td>
@@ -14,13 +14,27 @@ My name is Sebastian I am  Mechatronics engineer student at _Universidad Naciona
     </a>
     </td>
     <td>
-    <a href="https://github.com/jsduenass//PA-servomecanismos">  
-        <img align = "center" alt="notebook cover" width="500" src="https://raw.githubusercontent.com/jsduenass/PA-servomecanismos/master/Simulation.gif" />
+    <a href="https://github.com/jsduenass/differential-drive-robot-simulation">  
+        <img align = "center" alt="robot simulation" width="400" src="https://raw.githubusercontent.com/jsduenass/differential-drive-robot-simulation/master/differential-robot.gif" />
     </td>
   </tr>
 </table>
 
 
+<p align = "center">
+<table style="width:100%">
+  <tr>
+    <th>MATLAB servo motor simulation</th>
+  </tr>
+    <tr>
+    <td>
+    <a href="https://github.com/jsduenass//PA-servomecanismos">  
+        <img alt="notebook cover" width="800" src="https://raw.githubusercontent.com/jsduenass/PA-servomecanismos/master/Simulation.gif" />
+    </td>
+  </tr>
+</table>
+
+<p />
 <!-- if you see this you are picking behind the curtain may be you want to replicate it
 here are some of the resources I've used to create this profile:
  codeSTACKr         Next Level GitHub Profile      https://www.youtube.com/watch?v=ECuqb5Tv9qI 
