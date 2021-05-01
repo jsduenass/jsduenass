@@ -1,10 +1,25 @@
 ## Hello there  <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> welcome to my profile 
 
 My name is Sebastian I am  Mechatronics engineer student at _Universidad Nacional de Colombia_. I am an aspiring programmer and data analyst who is currently working on:
-| __A data science R notebook__     | __MATLAB simulations__ |
-| ----------- | ----------- |
-| [<img align = "center" alt="notebook cover" width="400" src="https://raw.githubusercontent.com/jsduenass/datasciencecoursera/gh-pages/media/vector/coursera_and_jhu.svg" />][notes] | [<img align = "center" alt="notebook cover" width="400" src="https://raw.githubusercontent.com/jsduenass/PA-servomecanismos/master/Simulation.gif" />][simu] |
-  
+
+ <table style="width:100%">
+  <tr>
+    <th>A data science R notebook</th>
+    <th>MATLAB simulations</th>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/jsduenass/datasciencecoursera"> 
+        <img align = "center" alt="notebook cover" width="500" src="https://raw.githubusercontent.com/jsduenass/datasciencecoursera/gh-pages/media/vector/coursera_and_jhu.svg" /> 
+    </a>
+    </td>
+    <td>
+    <a href="https://github.com/jsduenass//PA-servomecanismos">  
+        <img align = "center" alt="notebook cover" width="500" src="https://raw.githubusercontent.com/jsduenass/PA-servomecanismos/master/Simulation.gif" />
+    </td>
+  </tr>
+</table>
+
 
 <!-- if you see this you are picking behind the curtain may be you want to replicate it
 here are some of the resources I've used to create this profile:
