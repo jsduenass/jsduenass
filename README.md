@@ -1,11 +1,9 @@
-# Hello there Welcome to my profile 
+## Hello there, welcome to my profile 
 
 My name is Sebastian I am aspiring programmer and data analyst who is currently working on:
-## A data science R notebook 
-[<img align = "center" alt="notebook cover" width="400" src="https://raw.githubusercontent.com/jsduenass/datasciencecoursera/gh-pages/media/vector/coursera_and_jhu.svg" />][notes]
-  
-## MATLAB simulations
-[<img align = "center" alt="notebook cover" width="400" src="https://raw.githubusercontent.com/jsduenass/PA-servomecanismos/master/Simulation.gif" />][simu]
+| __A data science R notebook__     | __MATLAB simulations__ |
+| ----------- | ----------- |
+| [<img align = "center" alt="notebook cover" width="400" src="https://raw.githubusercontent.com/jsduenass/datasciencecoursera/gh-pages/media/vector/coursera_and_jhu.svg" />][notes] | [<img align = "center" alt="notebook cover" width="400" src="https://raw.githubusercontent.com/jsduenass/PA-servomecanismos/master/Simulation.gif" />][simu] |
   
 
 <!-- if you see this you are picking behind the curtain may be you want to replicate it
@@ -13,13 +11,13 @@ here are some of the resources I've used to create this profile:
  codeSTACKr         Next Level GitHub Profile      https://www.youtube.com/watch?v=ECuqb5Tv9qI 
  MikeCodesDotNET    ColoredBadges                  https://github.com/MikeCodesDotNET/ColoredBadges
                                                    https://github.com/simple-icons/simple-icons
+anuraghazra         github-readme-stats            https://github.com/anuraghazra/github-readme-stats
 -->
 
-## Connect with me:
-[<img align = "center" alt=" YouTube" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align = "center" alt="jsduenass | Twitter" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align = "center" alt="jsduenass | LinkedIn" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+### Connect with me:
+[<img align = "center" alt=" YouTube" width="40" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg" />][youtube]
+[<img align = "center" alt="jsduenass | Twitter" width="40" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" />][twitter]
+[<img align = "center" alt="jsduenass | LinkedIn" width="40" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -30,17 +28,17 @@ here are some of the resources I've used to create this profile:
 [notes]: https://github.com/jsduenass/datasciencecoursera
 [simu]: https://github.com/jsduenass/PA-servomecanismos
 
-## Languages and Tools:
+### Languages and Tools:
 
 <p align = "center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/r.svg" alt = "R" style = "vertical-align:top; margin:4px">
   <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt = "Python" style = "vertical-align:top; margin:4px">
-  
-  
   <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/datascience.svg" alt = "datascience" style = "vertical-align:top; margin:4px">
-  <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt = "vsc" style = "vertical-align:top; margin:4px">
+  
+ <br/> 
 
+  <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt = "vsc" style = "vertical-align:top; margin:4px">
    <img src = " https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt = "bash" style = "vertical-align:top; margin:4px">
   
   <br/>
@@ -82,5 +80,6 @@ here are some of the resources I've used to create this profile:
 
 
 ## Work habits:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsduenass&hide=javascript,HTML,CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsduenass&hide=javascript,HTML,CSS&layout=compact" alt="stats" />
+<p />
