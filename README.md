@@ -1,4 +1,4 @@
-## Hello there  <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> welcome to my profile 
+# Hello there  <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> welcome to my profile 
 
 My name is Sebastian I am  Mechatronics engineer student at _Universidad Nacional de Colombia_. I am an aspiring programmer and data analyst who is currently working on:
 
@@ -43,7 +43,8 @@ here are some of the resources I've used to create this profile:
 anuraghazra         github-readme-stats            https://github.com/anuraghazra/github-readme-stats
 -->
 
-### Connect with me:
+___
+## Connect with me:
 
 <p align = "center">
 
@@ -74,8 +75,8 @@ anuraghazra         github-readme-stats            https://github.com/anuraghazr
 [notes]: https://github.com/jsduenass/datasciencecoursera
 [simu]: https://github.com/jsduenass/PA-servomecanismos
 -->
-
-### Languages and Tools:
+___
+## Languages and Tools:
 
 <p align = "center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -86,7 +87,7 @@ anuraghazra         github-readme-stats            https://github.com/anuraghazr
  <br/> 
 
   <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt = "vsc" style = "vertical-align:top; margin:4px">
-  <img src = " https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt = "bash" style = "vertical-align:top; margin:4px">
+  <img src = "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt = "bash" style = "vertical-align:top; margin:4px">
   
   <br/>
 
@@ -125,8 +126,13 @@ anuraghazra         github-readme-stats            https://github.com/anuraghazr
   -->
 </p>
 
-
+___
 ## Work habits:
 <p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsduenass&hide=javascript,HTML,CSS&layout=compact" alt="stats" />
+<!--
+<br/>
+ <img src = "https://github-readme-stats.vercel.app/api?username=jsduenass&show_icons=true&theme" alt="Sebastian Github Stats" />
+-->
+
 <p />
