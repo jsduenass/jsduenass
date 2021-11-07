@@ -9,7 +9,7 @@ My name is Sebastian I am  Mechatronics engineer student at _Universidad Naciona
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/jsduenass/datasciencecoursera"> 
+    <a href="https://github.com/jsduenass/datasciencecoursera" target="_blank"> 
         <img align = "center" alt="notebook cover" width="500" src="https://raw.githubusercontent.com/jsduenass/datasciencecoursera/gh-pages/media/vector/coursera_and_jhu.svg" /> 
     </a>
     </td>
