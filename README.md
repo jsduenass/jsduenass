@@ -41,6 +41,8 @@ here are some of the resources I've used to create this profile:
  MikeCodesDotNET    ColoredBadges                  https://github.com/MikeCodesDotNET/ColoredBadges
                                                    https://github.com/simple-icons/simple-icons
 anuraghazra         github-readme-stats            https://github.com/anuraghazra/github-readme-stats
+
+Spoofing git commits to change history https://medium.com/@pjbgf/spoofing-git-commits-7bef357d72f0
 -->
 
 ___
