@@ -5,7 +5,7 @@ My name is Sebastian I am  Mechatronics engineer student at _Universidad Naciona
  <table style="width:100%">
   <tr>
     <th>A data science R notebook</th>
-    <th>MATLAB differential robot simulation</th>
+    <th>Robotics labs</th>
   </tr>
   <tr>
     <td>
@@ -14,8 +14,8 @@ My name is Sebastian I am  Mechatronics engineer student at _Universidad Naciona
     </a>
     </td>
     <td>
-    <a href="https://github.com/jsduenass/differential-drive-robot-simulation">  
-        <img align = "center" alt="robot simulation" width="400" src="https://raw.githubusercontent.com/jsduenass/differential-drive-robot-simulation/master/differential-robot.gif" />
+    <a href="https://github.com/orgs/Robotica-UNAL-G3-A/repositories>  
+        <img align = "center" alt="robot simulation" width="400" src="https://user-images.githubusercontent.com/25491198/226225536-aadbf8ba-bb00-44c1-9fbd-85daa73b9b40.gif" />
     </td>
   </tr>
 </table>
