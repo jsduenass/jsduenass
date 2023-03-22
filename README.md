@@ -24,12 +24,12 @@ My name is Sebastian I am  Mechatronics engineer student at _Universidad Naciona
 <p align = "center">
 <table style="width:100%">
   <tr>
-    <th>MATLAB servo motor simulation</th>
+    <th>Stewart Gough platform restoration</th>
   </tr>
     <tr>
     <td>
-    <a href="https://github.com/jsduenass//PA-servomecanismos">  
-        <img alt="notebook cover" width="800" src="https://raw.githubusercontent.com/jsduenass/PA-servomecanismos/master/Simulation.gif" />
+    <a href="https://github.com/jsduenass/Stewart_Gough_platform_UNAL/tree/upkeep">  
+        <img alt="notebook cover" width="800" src="https://github.com/jsduenass/Stewart_Gough_platform_UNAL/raw/upkeep/media/images/SG_platform.jpg" />
     </td>
   </tr>
 </table>
