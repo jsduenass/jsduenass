@@ -1,6 +1,8 @@
 # Hello there  <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px"> welcome to my profile 
 
-My name is Sebastian I am  Mechatronics engineer student at _Universidad Nacional de Colombia_. I am an aspiring programmer and data analyst who is currently working on:
+My name is Sebastian I am Mechatronics engineer  <!-- finally!!!! it took more than anticipated-->  :D from  _Universidad Nacional de Colombia_. Working on robotics, UAVs, programming and add data analysis on the side.
+
+## Past projects
 
  <table style="width:100%">
   <tr>
@@ -35,6 +37,7 @@ My name is Sebastian I am  Mechatronics engineer student at _Universidad Naciona
 </table>
 
 <p />
+
 <!-- if you see this you are picking behind the curtain may be you want to replicate it
 here are some of the resources I've used to create this profile:
  codeSTACKr         Next Level GitHub Profile      https://www.youtube.com/watch?v=ECuqb5Tv9qI 
@@ -97,44 +100,16 @@ ___
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt = "git" width = "45" height = "40"/>
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt = "github" width = "45" height = "40" />
   
-  <!-- 
-  
-  <img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/cloud.svg" alt = "cloud" style = "vertical-align:top; margin:4px">
-  
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt = "C" width = "40" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "C++" width = "40" height = "40"/>
-  
-  
-
-  <img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" alt = "PyCharm" style = "vertical-align:top; margin:4px">
-  <img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt = "AI" style = "vertical-align:top; margin:4px">
-  <img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt = "Docker" style = "vertical-align:top; margin:4px">
-  
-  <img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt = "AWS" style = "vertical-align:top; margin:4px">
-  <img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt = "Azure" style = "vertical-align:top; margin:4px">
-  
-  <img src = "https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/tools.svg" alt = "tools" style = "vertical-align:top; margin:4px">
-  
-  <br>
-  
-  
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width = "45" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width = "45" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width = "45" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width = "45" height = "40"/>
-  
-  <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="ipynb" width = "45" height = "40"/>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width = "45" height = "40"/>
-  -->
 </p>
 
 ___
 ## Work habits:
 <p align = "center">
+
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jsduenass&hide=javascript,HTML,CSS&layout=compact" alt="stats" />
 <!--
 <br/>
  <img src = "https://github-readme-stats.vercel.app/api?username=jsduenass&show_icons=true&theme" alt="Sebastian Github Stats" />
 -->
 
-<p />
+<p/>
